@@ -1,0 +1,129 @@
+[
+    {
+      "category_id": "01",
+      "resale-price":"200",
+      "original-price":"1500",
+      "location": "Rangpur",
+      "title": "Audi A3",
+      "author": {
+        "name": "Maksud",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://cdn.pixabay.com/photo/2012/05/29/00/43/car-49278__340.jpg",
+      "details": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!Sit amet consectetura dipisicing elit dui sed eiusmod ciltempor incididunt uet labore uset dolore magna aliqua minim veniam quisnostrud exercitation. Slamco em laborisa aliquip ex ea comdo consequat uis sed auted irure"
+    },
+    {
+      "category_id": "01",
+      " resale-price":"200",
+      "original-price":"1500",
+      "location": "Rangpur",
+      "title": "Audi A4",
+      "author": {
+        "name": "Maksud",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://images.unsplash.com/photo-1576221162298-3d9f04e9f661?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHRlc2xhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+      "details": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!Sit amet consectetura dipisicing elit dui sed eiusmod ciltempor incididunt uet labore uset dolore magna aliqua minim veniam quisnostrud exercitation. Slamco em laborisa aliquip ex ea comdo consequat uis sed auted irure"
+    },
+    {
+      "category_id": "01",
+      " resale-price":"200",
+      "original-price":"1500",
+      "location": "Dhaka",
+      "title": "Audi Q5",
+      "author": {
+        "name": "Maksud",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://grandcarrentalv1.b-cdn.net/wp-content/uploads/2017/01/2017-Audi-Q7-fornt-three-quarter-03-960x550.jpg",
+      "details": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!Sit amet consectetura dipisicing elit dui sed eiusmod ciltempor incididunt uet labore uset dolore magna aliqua minim veniam quisnostrud exercitation. Slamco em laborisa aliquip ex ea comdo consequat uis sed auted irure"
+    },
+    {
+      "category_id": "03",
+      " resale-price":"200",
+      "original-price":"1500",
+      "location":"shylet",
+      "title": "BMW 3 Series",
+      "author": {
+        "name": "Maksud",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://grandcarrentalv1.b-cdn.net/wp-content/uploads/2017/01/bmw-3-series-sedan-wallpaper-1920x1200-05-960x550.jpg",
+      "details": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!Sit amet consectetura dipisicing elit dui sed eiusmod ciltempor incididunt uet labore uset dolore magna aliqua minim veniam quisnostrud exercitation. Slamco em laborisa aliquip ex ea comdo consequat uis sed auted irure rehenderit voluptate velit esse cillum"
+    },
+    {
+      "category_id": "03",
+      " resale-price":"200",
+      "original-price":"1500",
+      "location": "Khulna",
+      "title": "Bmw x6",
+      "author": {
+        "name": "Maksud",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://grandcarrentalv1.b-cdn.net/wp-content/uploads/2017/01/bmw-x6-2015-41-960x550.jpg",
+      "details": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!Sit amet consectetura dipisicing elit dui sed eiusmod ciltempor incididunt uet labore uset dolore magna aliqua minim veniam quisnostrud exercitation. Slamco em laborisa aliquip ex ea comdo consequat uis sed auted irure rehenderit voluptate velit esse cillum"
+    },
+    {
+      "category_id": "03",
+      " resale-price":"200",
+      "original-price":"1500",
+      "location": "Rangpur",
+      "title": "BMW 7 Series",
+      "author": {
+        "name": "Maksud",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://grandcarrentalv1.b-cdn.net/wp-content/uploads/2017/01/2016-bmw-7-series-exterior-images-1900x1200-07-960x550.jpg",
+      "details": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!Sit amet consectetura dipisicing elit dui sed eiusmod ciltempor incididunt uet labore uset dolore magna aliqua minim veniam quisnostrud exercitation. Slamco em laborisa aliquip ex ea comdo consequat uis sed auted irure rehenderit voluptate velit esse cillum"
+    },
+
+    {
+      "category_id": "02",
+      " resale-price":"200",
+      "original-price":"1500",
+      "location": "Dhaka",
+      "title": "Lexus RX 350",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://grandcarrentalv1.b-cdn.net/wp-content/uploads/2017/01/2016-Lexus-RX-350-BM-01-960x550.jpg",
+      "details": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!Sit amet consectetura dipisicing elit dui sed eiusmod ciltempor incididunt uet labore uset dolore magna aliqua minim veniam quisnostrud exercitation. Slamco em laborisa aliquip ex ea comdo consequat uis sed auted irure rehenderit voluptate velit esse cillum"
+    },
+    {
+      "category_id": "02",
+      " resale-price":"200",
+      "original-price":"1500",
+      "location": "Barishal",
+      "title": "Lexus RX 350",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://grandcarrentalv1.b-cdn.net/wp-content/uploads/2017/01/2017-lexus-ls-460-2-960x550.jpg",
+      "details": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!Sit amet consectetura dipisicing elit dui sed eiusmod ciltempor incididunt uet labore uset dolore magna aliqua minim veniam quisnostrud exercitation. Slamco em laborisa aliquip ex ea comdo consequat uis sed auted irure rehenderit voluptate velit esse cillum"
+    },
+    {
+      "category_id": "02",
+      " resale-price":"200",
+      "original-price":"1500",
+      "location": "Khulna",
+      "title": "Lexus LX 460",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://grandcarrentalv1.b-cdn.net/wp-content/uploads/2017/01/2016-Lexus-RX-350-BM-01-960x550.jpg",
+      "details": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!Sit amet consectetura dipisicing elit dui sed eiusmod ciltempor incididunt uet labore uset dolore magna aliqua minim veniam quisnostrud exercitation. Slamco em laborisa aliquip ex ea comdo consequat uis sed auted irure rehenderit voluptate velit esse cillum"
+    }   
+  ]
