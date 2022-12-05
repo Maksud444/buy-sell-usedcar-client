@@ -58,8 +58,11 @@ console.log(products,"products mange");
           })
             .then(res => res.json())
             .then(data => {
-              console.log(data,'the adertised prduct');
-            toast.success('successfully added the product on advertise')
+                if(data.matchedCount > 0){
+
+                    toast.success('successfully added the product on advertise')
+                }
+              console.log(data,'the advertised prduct');
           })
         }
 

@@ -10,9 +10,9 @@ import AdvertiseCart from './AdvertiseCart';
 const Advertisement = () => {
     const { user } = useContext(AuthContext);
     const { data: products = [] ,isLoading} = useQuery({
-        queryKey: ["users"],
+        queryKey: ["advertise"],
         queryFn: async () => {
-          const res = await fetch('http://localhost:5000/advertise?status=advertise')
+          const res = await fetch(`http://localhost:5000/advertise?status=advertise`)
           const data = await res.json();
           return data;
         }
