@@ -8,9 +8,7 @@ import { AuthContext } from '../../../context/AuthProvider';
 const AddProducts = () => {
     const { user } = useContext(AuthContext)
     const navigate = useNavigate()
-    const imageHostKey = process.env.REACT_APP_imgbb_key
-
-    console.log('image', imageHostKey)
+   
 
     const [carData, setCarData] = useState([])
     const categoryId = carData;
@@ -33,6 +31,7 @@ const AddProducts = () => {
         const resaleprice = form.resaleprice.value;
         const YearOfPurchase = form.YearOfPurchase.value;
         const condition = form.condition.value;
+        const imgURL = form.imgURL.value;
         const location = form.location.value;
         const details = form.details.value;
         const title = form.title.value;
@@ -41,22 +40,11 @@ const AddProducts = () => {
 
         };
 
-        const image = form.image.files[0];
-        console.log(image);
-        const formData = new FormData();
-        formData.append('image', image);
-        const url = `https://api.imgbb.com/1/upload?&key=${imageHostKey}`
+        
+       
 
-        fetch(url, {
-            method: 'POST',
-            body: formData,
-        }).then(res => res.json())
-            .then(imageData => {
-                console.log(imageData);
-                const AddProduct = {
-                    image: imageData.data.url,
-
-                }
+       
+    
                 const brandId = form.categoryId.value;
                 const product = {
                     brand,
@@ -70,7 +58,7 @@ const AddProducts = () => {
                     title,
                     details,
                     date,
-                    image_url: imageData.data.url,
+                    image_url: imgURL,
                     author
                 }
 
@@ -89,8 +77,7 @@ const AddProducts = () => {
                         navigate('/dashboard/manageproducts')
                         toast.success('Order successfully', { autoClose: 500 })
                     })
-                console.log("All Product", AddProduct);
-            })
+            
 
 
     }
@@ -144,21 +131,18 @@ const AddProducts = () => {
                                 </label>
                                 <input type="text" name='originalprice' placeholder="original_price" className="input input-bordered" />
                             </div>
-                            <div className="col-span-full   sm:col-span-3">
-                                <label className='block mb-2 text-sm'>
-                                    Select Car Image:
-                                </label>
-                                <div htmlFor='image' className='border border-4 bg-white border-black'>
-                                    <input
-
-                                        type='file'
-                                        id='image'
-                                        name='image'
-                                        accept='image/*'
-                                        required
-                                    />
-                                </div>
-                            </div>
+                            <div className="form-control">
+                <label className="label">
+                  <span className="label-text">Car image URL</span>
+                </label>
+                <input
+                  name="imgURL"
+                  type="text"
+                  placeholder="https://"
+                  className="input input-bordered"
+                  required
+                />
+              </div>
                             <div className="form-control">
                                 <label className="label">
                                     <span className="label-text">resalePrice</span>

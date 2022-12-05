@@ -47,6 +47,21 @@ console.log(products,"products mange");
     if (isLoading) {
         return <Spinner></Spinner>
     }
+    
+    const addProductInAdvertise = (id) => {
+        console.log(id);
+          fetch(`http://localhost:5000/advertise/${id}`, {
+            method: 'PUT',
+            headers: {
+              'content-type':'application/json'
+            }
+          })
+            .then(res => res.json())
+            .then(data => {
+              console.log(data,'the adertised prduct');
+            toast.success('successfully added the product on advertise')
+          })
+        }
 
     return (
         <div>
@@ -76,7 +91,7 @@ console.log(products,"products mange");
                                     </div></td>
                                     <td>{product.title}</td>
                                     <td>{product.brand}</td>
-                                    <td><button  className="btn btn-info">advertise</button></td>
+                                    <td><button onClick={()=>addProductInAdvertise(product._id)}  className="btn btn-info">advertise</button></td>
                                     <td>{product.email}</td>
                                     <td><button onClick={() => handleDeleteProduct(product)} className="btn btn-circle btn-outline">
                                         <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" /></svg>
